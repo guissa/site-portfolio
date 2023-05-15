@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Portifolio"
+		},
+		{
+			"path": "../Portifolio/Assets-aula2-curso3-html-e-css-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portifolio"
+	}
+}
